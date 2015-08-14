@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB64AE41-0C7B-41FF-A80D-63DB3255A92B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CNTaipingAgent</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C109BF6C9B79F89B493A8E91D0982B269ABACFCC</key>
+		<string>http://10.1.174.3/git/tpl-mobi-einsu-ios2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CNTaipingAgent.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C109BF6C9B79F89B493A8E91D0982B269ABACFCC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.1.174.3/git/tpl-mobi-einsu-ios2</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C109BF6C9B79F89B493A8E91D0982B269ABACFCC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C109BF6C9B79F89B493A8E91D0982B269ABACFCC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SorceT_HZHX</string>
+		</dict>
+	</array>
+</dict>
+</plist>

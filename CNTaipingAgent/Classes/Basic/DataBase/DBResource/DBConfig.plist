@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataCaches/db.sqlite</key>
+	<array>
+		<dict>
+			<key>tableName</key>
+			<string>EIS_DICTIONARY</string>
+			<key>modelName</key>
+			<string>TPDBDictionaryInfo</string>
+			<key>primaryKey</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>tableName</key>
+			<string>EIS_UUID</string>
+			<key>modelName</key>
+			<string>TPDBUUID</string>
+			<key>primaryKey</key>
+			<string>CODE</string>
+		</dict>
+		<dict>
+			<key>tableName</key>
+			<string>TPReportBO</string>
+			<key>modelName</key>
+			<string>TPReportBO</string>
+			<key>primaryKey</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>tableName</key>
+			<string>TPOrgInfoBO</string>
+			<key>modelName</key>
+			<string>TPOrgInfoBO</string>
+			<key>primaryKey</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>dataCaches/message.sqlite</key>
+	<array>
+		<dict>
+			<key>tableName</key>
+			<string>EIS_NOTICE</string>
+			<key>modelName</key>
+			<string>TPDBNoticeBO</string>
+			<key>primaryKey</key>
+			<string>NOTICE_TYPE,NOTICE_ID</string>
+		</dict>
+		<dict>
+			<key>tableName</key>
+			<string>auth_moduls</string>
+			<key>modelName</key>
+			<string>TPDBAuthModulBO</string>
+			<key>primaryKey</key>
+			<string>url,name</string>
+		</dict>
+	</array>
+</dict>
+</plist>
